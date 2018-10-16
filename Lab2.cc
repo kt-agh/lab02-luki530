@@ -8,12 +8,12 @@ using namespace std;
 //wcięciach i dbalości o wysokiej jakosci kometarze
 
 int main() {
-    int PierwszaZmienna=5; 
-    int DrugaZmienna=7;
+    int PierwszaZmienna = 5; 
+    int DrugaZmienna = 7;
 
-    int WynikDzialania=PierwszaZmienna+DrugaZmienna;
+    int WynikDzialania = PierwszaZmienna + DrugaZmienna;
     
-    cout <<"Wynik Dodawania Dwóch Liczb To:"<<WynikDzialania<<endl; 
+    cout << "Wynik Dodawania Dwóch Liczb To:" << WynikDzialania << endl; 
     // Wypisuje wynik dzialania
 
     return 0;
